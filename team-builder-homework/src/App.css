@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  height: 80vh;
+}
+
+
+.App h1 {
+
+  font-size: 2rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-decoration: underline;
+}
+
+
