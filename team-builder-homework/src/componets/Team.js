@@ -1,5 +1,5 @@
 import React,{useState} from 'react'
-import EditInfo from './edited'
+
 
 const intialListValue = {
     username: '',
